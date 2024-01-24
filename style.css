@@ -1,0 +1,21 @@
+body {
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 100vh;
+  margin: 0;
+  background-image: url(https://static8.depositphotos.com/1052036/837/v/450/depositphotos_8377841-stock-illustration-soldier-raising-indian-flag.jpg);
+  background-position: 20vh;
+  background-color: aliceblue;
+  color: white;
+}
+
+#timer {
+  font-family: cursive;
+  font-size: xx-large;
+  color: red;
+  padding-top: 40vh;
+  padding-right: 15vw;
+}
